@@ -1,0 +1,13 @@
+{
+  "name": "linkedin-jobs",
+  "version": "1.0.0",
+  "description": "LinkedIn job application automation using Cypress",
+  "scripts": {
+    "test": "cypress run",
+    "cypress:open": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^13.6.0",
+    "dotenv": "^16.3.1"
+  }
+} 
